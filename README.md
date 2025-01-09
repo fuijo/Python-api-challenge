@@ -1,4 +1,4 @@
-# python-api-challenge
+# Python-api-challenge
 
 **Weather and Vacation Analysis with APIs**
 This project demonstrated the power of data analytics and APIs in answering a real-world scientific question: "What is the weather like as we approach the equator?" By utilizing Python's capabilities for handling APIs, data visualization, and statistical modeling, we systematically analyzed weather data across various cities. Additionally, the project expanded its scope to plan ideal vacation destinations based on specific weather preferences.
